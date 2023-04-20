@@ -14,7 +14,7 @@ function App() {
         <h1>{teams.join(', ')}</h1>
       </div>
       <div>
-        <button onClick={() => shuffleTeams()}>팀 섞기</button>
+        <button onClick={shuffleTeams}>팀 섞기</button>
       </div>
 
     </div>
