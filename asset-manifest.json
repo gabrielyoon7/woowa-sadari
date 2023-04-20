@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/woowa-sadari/static/css/main.073c9b0a.css",
-    "main.js": "/woowa-sadari/static/js/main.d345d91a.js",
+    "main.js": "/woowa-sadari/static/js/main.4a9265f2.js",
     "static/js/787.0a896760.chunk.js": "/woowa-sadari/static/js/787.0a896760.chunk.js",
     "index.html": "/woowa-sadari/index.html",
     "main.073c9b0a.css.map": "/woowa-sadari/static/css/main.073c9b0a.css.map",
-    "main.d345d91a.js.map": "/woowa-sadari/static/js/main.d345d91a.js.map",
+    "main.4a9265f2.js.map": "/woowa-sadari/static/js/main.4a9265f2.js.map",
     "787.0a896760.chunk.js.map": "/woowa-sadari/static/js/787.0a896760.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d345d91a.js"
+    "static/js/main.4a9265f2.js"
   ]
 }
